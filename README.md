@@ -1,5 +1,5 @@
 
-![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/4a0560df68ccb67e5968a327438bb587.gif)
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/4a0560df68ccb67e5968a327438bb587.gif)
 ## I little bit about me
 
 🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
@@ -9,7 +9,6 @@
 ✉️ &nbsp;You can drop me an email at mpho@NioWei.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
 
-![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
 ---
 
 <p  align="center">
