@@ -1,4 +1,4 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/4a0560df68ccb67e5968a327438bb587)
 <h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
 
 ## I little bit about me
