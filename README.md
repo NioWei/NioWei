@@ -1,5 +1,5 @@
 
-![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/4a0560df68ccb67e5968a327438bb587.gif)
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/4a0560df68ccb67e5968a327438bb587.gif)
 ## I little bit about me
 
 🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
@@ -18,7 +18,7 @@
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ---
-
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
