@@ -9,10 +9,10 @@
 ✉️ &nbsp;You can drop me an email at mpho@NioWei.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
 📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
 
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
 ---
 
 <p  align="center">
-![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
   <img src="https://raw.githubusercontent.com/NioWei/NioWei/master/profile-summary-card-output/default/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/NioWei/NioWei/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
