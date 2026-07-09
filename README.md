@@ -12,7 +12,7 @@
 ---
 
 <p  align="center">
-  ![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
+![](https://eeya-1307928439.cos.ap-guangzhou.myqcloud.com/pic/OIP-C.jpg)
   <img src="https://raw.githubusercontent.com/NioWei/NioWei/master/profile-summary-card-output/default/1-repos-per-language.svg">
   <img src="https://raw.githubusercontent.com/NioWei/NioWei/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
