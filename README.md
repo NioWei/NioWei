@@ -37,15 +37,3 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ---
 
-## Links
-
-<p align="center">
-  <a href="https://blog.NioWei.co.za/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href= "https://dev.to/NioWei"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-  <a href="mailto:mpho@NioWei.co.za"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/NioWei"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://hub.docker.com/u/NioWei"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/NioWei1?sub_confirmation=1"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/NioWei"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href= "https://tiktok.com/@mph0.m"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
-</p>
